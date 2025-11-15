@@ -1,0 +1,10 @@
+{
+  "id": "4ff8720c-228f-445d-9667-92467e864e09",
+  "name": "Demo: ERC20 Token",
+  "chain": "sepolia",
+  "contract_address": "0x88d021C5979a461e607d14Ff9eECAB530781D99D",
+  "abi_hash": "825c7b3f",
+  "template": "vite",
+  "template_version": "v1",
+  "generated_at": "2025-11-09T08:41:37.565Z"
+}
